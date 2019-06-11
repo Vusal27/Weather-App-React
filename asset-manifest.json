@@ -1,13 +1,13 @@
 {
-  "main.css": "/Vusal27/Weather-App-React/static/css/main.c3a5b612.chunk.css",
-  "main.js": "/Vusal27/Weather-App-React/static/js/main.d92439d7.chunk.js",
-  "main.js.map": "/Vusal27/Weather-App-React/static/js/main.d92439d7.chunk.js.map",
-  "runtime~main.js": "/Vusal27/Weather-App-React/static/js/runtime~main.27798215.js",
-  "runtime~main.js.map": "/Vusal27/Weather-App-React/static/js/runtime~main.27798215.js.map",
-  "static/js/2.bbac7bca.chunk.js": "/Vusal27/Weather-App-React/static/js/2.bbac7bca.chunk.js",
-  "static/js/2.bbac7bca.chunk.js.map": "/Vusal27/Weather-App-React/static/js/2.bbac7bca.chunk.js.map",
-  "index.html": "/Vusal27/Weather-App-React/index.html",
-  "precache-manifest.3f63535927649a2f2e42d4036fc50520.js": "/Vusal27/Weather-App-React/precache-manifest.3f63535927649a2f2e42d4036fc50520.js",
-  "service-worker.js": "/Vusal27/Weather-App-React/service-worker.js",
-  "static/css/main.c3a5b612.chunk.css.map": "/Vusal27/Weather-App-React/static/css/main.c3a5b612.chunk.css.map"
+  "main.css": "/Weather-App-React/static/css/main.c3a5b612.chunk.css",
+  "main.js": "/Weather-App-React/static/js/main.6642d2fd.chunk.js",
+  "main.js.map": "/Weather-App-React/static/js/main.6642d2fd.chunk.js.map",
+  "runtime~main.js": "/Weather-App-React/static/js/runtime~main.1fec4822.js",
+  "runtime~main.js.map": "/Weather-App-React/static/js/runtime~main.1fec4822.js.map",
+  "static/js/2.bbac7bca.chunk.js": "/Weather-App-React/static/js/2.bbac7bca.chunk.js",
+  "static/js/2.bbac7bca.chunk.js.map": "/Weather-App-React/static/js/2.bbac7bca.chunk.js.map",
+  "index.html": "/Weather-App-React/index.html",
+  "precache-manifest.e4f53dde3b56aeaabfbac574440edb3c.js": "/Weather-App-React/precache-manifest.e4f53dde3b56aeaabfbac574440edb3c.js",
+  "service-worker.js": "/Weather-App-React/service-worker.js",
+  "static/css/main.c3a5b612.chunk.css.map": "/Weather-App-React/static/css/main.c3a5b612.chunk.css.map"
 }
